@@ -1,7 +1,6 @@
-export const SITE_NAME = "NimbusNarratives";
-export const SITE_TITLE = "NimbusNarratives | A personal blog by Abdullah Elsayed (@abdllahdev)";
-export const SITE_DESCRIPTION =
-  "NimbusNarratives | A personal blog by Abdullah Elsayed (@abdllahdev)";
-export const TWITTER_HANDLE = "https://twitter.com/abdllah_dev";
-export const GITHUB_HANDLE = "https://github.com/abdllahdev";
+export const SITE_NAME = "StevenOcchipinti";
+export const SITE_TITLE = "StevenOcchipinti | A personal blog by Steve Occhipinti";
+export const SITE_DESCRIPTION = "StevenOcchipinti | A personal blog by Steve Occhipinti";
+export const TWITTER_HANDLE = "https://twitter.com/steveocchipinti";
+export const GITHUB_HANDLE = "https://github.com/stevenocchipinti";
 export const CLOUDINARY_NAME = "example";

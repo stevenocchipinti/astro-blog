@@ -1,7 +1,7 @@
 {
   "name": "blog",
-  "author": "Abdullah Elsayed <hi@abdllah.dev>",
-  "repository": "https://github.com/abdllahdev/nimbus-narratives.git",
+  "author": "Steve Occhipinti",
+  "repository": "https://github.com/stevenocchipinti/blog.git",
   "license": "MIT",
   "type": "module",
   "version": "0.0.1",
