@@ -2,8 +2,8 @@
 title: Day 6 - Ueno
 description: Today was one of those days we knew we would not fit much in. According to Amy's list of attractions, we had about 15 sites to see, but amon...
 featured: false
-seriesId: japan-2010
-orderInSeries: 6
+seriesId: 2010-japan
+orderInSeries: 7
 pubDate: "Jan 06 2010"
 tags: []
 source: https://japan2010.stevenocchipinti.com/2010/01/day-6-ueno.html

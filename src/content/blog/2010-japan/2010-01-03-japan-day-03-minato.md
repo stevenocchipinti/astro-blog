@@ -2,8 +2,8 @@
 title: Day 3 - Minato
 description: Today is New Years Eve!  We did a bit of research before the trip to work out what there is to do on new Years Eve in Tokyo and it seems lik...
 featured: false
-seriesId: japan-2010
-orderInSeries: 6
+seriesId: 2010-japan
+orderInSeries: 4
 pubDate: "Jan 03 2010"
 tags: []
 source: https://japan2010.stevenocchipinti.com/2010/01/today-is-new-years-eve-we-did-bit-of.html

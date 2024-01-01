@@ -2,8 +2,8 @@
 title: Day 2 - Asakusa
 description: Today we spent the day in Asakusa (ah-suk-oo-sa).  The big attraction here is the Senso-ji Temple. These is a large iconic gate at the front...
 featured: false
-seriesId: japan-2010
-orderInSeries: 6
+seriesId: 2010-japan
+orderInSeries: 3
 pubDate: "Dec 31 2009"
 tags: []
 source: https://japan2010.stevenocchipinti.com/2009/12/day-2-asakusa.html

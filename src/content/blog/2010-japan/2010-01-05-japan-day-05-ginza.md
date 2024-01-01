@@ -2,7 +2,7 @@
 title: Day 5 - Ginza
 description: Today we went to Ginza, which is sort of like the un-official capital of Tokyo (if a city can have a capital?). Our main purpose for coming ...
 featured: false
-seriesId: japan-2010
+seriesId: 2010-japan
 orderInSeries: 6
 pubDate: "Jan 05 2010"
 tags: []

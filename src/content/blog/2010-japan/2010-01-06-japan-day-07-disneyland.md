@@ -2,8 +2,8 @@
 title: Day 7 - DisneyLand
 description: Today is the day Amy has been looking forward to ever since she found out Tokyo has a DisneyLand. Tokyo has both DisneyLand and DisneySea in...
 featured: false
-seriesId: japan-2010
-orderInSeries: 6
+seriesId: 2010-japan
+orderInSeries: 8
 pubDate: "Jan 06 2010"
 tags: []
 source: https://japan2010.stevenocchipinti.com/2010/01/day-7-disneyland.html
