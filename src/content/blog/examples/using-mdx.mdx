@@ -11,6 +11,80 @@ tags:
   - mdx
 ---
 
+import Grid from "../../../components/PhotoGrid.astro";
+
+<Grid
+  id="small2"
+  areas={[
+    [0, 1],
+    [0, 2],
+  ]}
+  images={[
+    "https://placehold.co/1080x2160",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+  ]}
+/>
+
+---
+
+<Grid
+  id="small"
+  areas={[
+    [0, 1],
+    [2, 3],
+  ]}
+  images={[
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+  ]}
+/>
+
+---
+
+<Grid
+  id="medium"
+  areas={[
+    [0, 1, 2],
+    [3, 4, 4],
+    [5, 4, 4],
+  ]}
+  images={[
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+  ]}
+/>
+
+---
+
+<Grid
+  id="big"
+  areas={[
+    [0, 0, 1, 2],
+    [0, 0, 3, 4],
+    [5, 6, 6, 7],
+    [8, 6, 6, 9],
+  ]}
+  images={[
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+    "https://placehold.co/1080",
+  ]}
+/>
+
 This theme comes with the [@astrojs/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/) integration installed and configured in your `astro.config.mjs` config file. If you prefer not to use MDX, you can disable support by removing the integration from your config file.
 
 ## Why MDX?
