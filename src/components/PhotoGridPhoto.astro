@@ -7,12 +7,11 @@ export interface Props {
   alt?: string
   spanRows?: number
   spanCols?: number
-  square?: boolean
+  aspectRatio?: number
 }
 
-const { src, alt, spanRows = 1, spanCols = 1, square = false } = Astro.props;
+const { src, alt, spanRows = 1, spanCols = 1, aspectRatio = 0 } = Astro.props;
 const spanArea = `span ${spanRows} / span ${spanCols}`
-const aspectRatio = square ? "1" : "initial"
 ---
 
 <style define:vars={{ spanArea, aspectRatio }}>
